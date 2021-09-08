@@ -6,7 +6,7 @@
 - 📫 How to reach me akbarfandiaz@gmail.com
 <br>
 <br>
-# GitHub Statistic
+### GitHub Statistic ###
 <p align="left">
 <a href="https://github.com/gilangadhan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akbarfandiaz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
