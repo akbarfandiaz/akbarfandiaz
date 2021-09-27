@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Fandiaz 👋 I'm a 🚀 Javanese developer 🚀 I ❤️ Punk Rock ❤️">
+</p>
+<br>
 - 👋 Hi, I’m @akbarfandiaz
 - 👋 A newbie but not a peasent
 - 👀 I’m interested in Java lang, especially web
